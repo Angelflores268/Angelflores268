@@ -16,7 +16,7 @@ Computer Science student focused on Software Engineering, Cloud, Data Analytics,
 - Git, Linux
 
 ## Goals
-- Learn as much as I can from my research this summer 
+- Learn as much as I can from my summer research internship this summer 
 - Land a full time role after graduation  
 <!---
 Angelflores268/Angelflores268 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
