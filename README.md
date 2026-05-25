@@ -18,6 +18,16 @@ Computer Science student focused on Software Engineering, Cloud, Data Analytics,
 ## Goals
 - Learn as much as I can from my summer research internship this summer 
 - Land a full time role after graduation  
+
+## LeetCode / DSA Practice
+
+Currently reviewing Python fundamentals and LeetCode-style problems.
+
+Progress:
+- Completed 8 Python conditional practice problems
+- Topics: functions, return vs print, if/else, comparisons, and/or/not
+
+Practice files are in the `leetcode-practice/` folder.
 <!---
 Angelflores268/Angelflores268 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
