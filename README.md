@@ -1,6 +1,6 @@
 - # Angel Flores
 
-Computer Science student focused on Software Engineering, Cloud, Data Analytics,  
+Computer Science student focused on Software Engineering, Cloud, Data Analytics, Devops
 
 ## Currently
 - Practicing DSA
