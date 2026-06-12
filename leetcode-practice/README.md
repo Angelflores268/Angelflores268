@@ -1,4 +1,4 @@
-# LeetCode Practice
+# LeetCode Practice Tracker
 
 ## Current Progress
 
